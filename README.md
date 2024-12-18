@@ -1,3 +1,6 @@
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
 Predictive Analytics of Disaster Occurence and Forecasting using
 Size: Approximately 319,073 rows and 17 columns before cleaning
 Primary Columns: Disaster_Type, Fatalities, OCCURRED_ON_DATE, and others
@@ -10,3 +13,6 @@ numpy for numerical operations
 PLEASE READ THE REPORT FILE...
 
 THANK YOU
+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
