@@ -1,6 +1,12 @@
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
-*Exadata Analysis for Disaster Forecasting and Measure of variabe factors on Human Impactn*
+**Exadata Analysis for Disaster Forecasting and Measure of variabe factors on Human Impact**
+
+##Installation
+
+```bash
+pip install foobar
+```
 
 Predictive Analytics of Disaster Occurence and Forecasting using
 Size: Approximately 319,073 rows and 17 columns before cleaning
