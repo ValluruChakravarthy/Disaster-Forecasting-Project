@@ -1,8 +1,7 @@
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
-**Exadata Analysis for Disaster Forecasting and Measure of variabe factors on Human Impact**
+#Exadata Analysis for Disaster Forecasting and Measure of variabe factors on Human Impact
 
-##Installation
 
 ```bash
 pip install foobar
