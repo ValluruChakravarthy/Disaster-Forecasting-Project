@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
-**🌀🌧 Exadata Analysis for Disaster Forecasting and Measure of variabe factors on Human Impact🌀🌧**
+**🌀🌧 Exadata Analysis for Disaster Forecasting and Human Impact🌀🌧**
 
 -[COLAB](https://colab.research.google.com/github/ValluruChakravarthy/Disaster-Forecasting-Project/blob/master/data_exploration_.ipynb)
 
