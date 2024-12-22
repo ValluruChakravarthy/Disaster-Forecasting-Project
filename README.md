@@ -1,10 +1,11 @@
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
-#Exadata Analysis for Disaster Forecasting and Measure of variabe factors on Human Impact
+**Exadata Analysis for Disaster Forecasting and Measure of variabe factors on Human Impact**
 
 
 ```bash
-pip install foobar
+#Required Libraries
+
 ```
 
 Predictive Analytics of Disaster Occurence and Forecasting using
